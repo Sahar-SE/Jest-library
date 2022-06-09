@@ -1,0 +1,23 @@
+{
+  "name": "jest-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahar-SE/Jest-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahar-SE/Jest-library/issues"
+  },
+  "homepage": "https://github.com/Sahar-SE/Jest-library#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
